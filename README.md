@@ -1,2 +1,2 @@
 # hello_world
-basic hello world repository
+Hello I'm Vlad and i have nothing better to do than to write hello world repo
